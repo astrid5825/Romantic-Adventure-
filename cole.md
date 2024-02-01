@@ -5,9 +5,9 @@ You and Cole catch up about old times, you find his number in your contacts, and
 You Ask Cole to hang out after school in the handball court
 "It was really fun! But it’s up to you, should you pop
 The question?"
-### [Yes]
+### [Yes](cole.md)
 
-### [No] 
+### [No]
 
 or
 
