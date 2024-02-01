@@ -2,5 +2,5 @@
 
 ### [Ask Cole to hang out afterschool at the handball court](Handball.md)
 
-### [Ask Cole to hang out at his house](House)
+### [Ask Cole to hang out at his house](House.md)
 
