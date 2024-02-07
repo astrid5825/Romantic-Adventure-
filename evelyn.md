@@ -1,6 +1,6 @@
-The new girl in your school Evelyn
+### The new girl in your school Evelyn
 
-### You welcome the new girl and start Talking quickly, She’s sweet and Very pretty. She gives you her
+### You welcome the new girl and start Talking quickly, She’s sweet and Very pretty, she gives you her
 Number and you…
 
 ### [Ask to hang out after school at a boba shop](boba.md)
