@@ -1,18 +1,5 @@
-The weirder and quieter Ashton
+### They’re odd but fun to talk too, They give you their socials and you…
 
-Stalk their social media
+### [Ask them to tell you more about their intrests](No1.md)
 
-Some of the older posts icks you, should you confront them?
-"Yes" or "No"
-
-When you confront them, they tell you that the post you saw was them before, but they’ve changed now. What do you do?
-
-Decide that this is the time to ask out ashton
-
-Or
-
-Never speak to them again
-
-
-You stop talking to them, they’re hurt but move on
-
+### [Stalk their social media](stalk.md)
