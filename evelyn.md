@@ -5,6 +5,4 @@
 
 ### [Ask to hang out after school at a boba shop](boba.md)
 
-### or
-
 ### [Text her throughout the day](texther.md)
