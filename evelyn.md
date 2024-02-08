@@ -2,4 +2,4 @@
 
 ### [Ask to hang out after school at a boba shop]
 
-### [Text her throughout the day]
+### [Text her throughout the day](no1.md)
